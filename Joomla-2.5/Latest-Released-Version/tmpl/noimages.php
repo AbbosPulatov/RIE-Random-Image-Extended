@@ -2,9 +2,9 @@
 /**
  *  @Copyright
  *
- *  @package     Random Image Extended - RIE for Joomla 2.5
+ *  @package     Random Image Extended - RIE
  *  @author      Viktor Vogel {@link http://www.kubik-rubik.de}
- *  @version     Version: 2.5-2 - 07-Jun-2012
+ *  @version     2.5-4 - 2013-08-04
  *  @link        Project Site {@link http://joomla-extensions.kubik-rubik.de/rie-random-image-extended}
  *
  *  @license GNU/GPL
@@ -22,7 +22,7 @@
  *  along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 defined('_JEXEC') or die('Restricted access');
-echo '<!-- RIE - Random Image Extended for Joomla 2.5 by Kubik-Rubik.de - Viktor Vogel -->';
+echo '<!-- RIE - Random Image Extended - Kubik-Rubik Joomla! Extensions -->';
 ?>
 <div class="random_image_extended<?php echo $moduleclass_sfx ?>">
     <p>
